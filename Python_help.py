@@ -1,5 +1,6 @@
 print("RUN THIS PROGRAM IN PYTHON 3!!!")
-print("I would recommend using Visual Studio Code!")
+print("I would recommend using Visual Studio Code as a python IDE, however it also works with lots other programing languages!")
+print("If you do decide to use VSC I would recommend using the Python extension by Microsoft")
 print("Go to https://www.w3schools.com/python/ for python help!")
 print("")
 
