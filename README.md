@@ -5,4 +5,4 @@ A project to help people understand the very basics of Python.
 
 **The examples do work.**
 
-**If you can contribute please do**
+**If you can contribute please do!**
